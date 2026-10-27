@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "channels": {
+    "stable": {
+      "version": "1.1.0",
+      "filename": "1.1.0.json",
+      "published_at": "2026-10-27T17:32:52Z"
+    }
+  }
+}
