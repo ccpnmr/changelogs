@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "channels": {
+    "stable": {
+      "version": "3.0.0",
+      "filename": "3.0.0.json",
+      "latest_revision": 1,
+      "published_at": "2026-10-28T10:42:34Z"
+    },
     "beta": {
       "version": "1.0.0.beta",
       "filename": "1.0.0.beta.json",
       "latest_revision": 1,
       "published_at": "2026-10-28T10:32:55Z"
-    },
-    "stable": {
-      "version": "1.0.0",
-      "filename": "1.0.0.json",
-      "latest_revision": 2,
-      "published_at": "2026-10-28T10:32:37Z"
     }
   }
 }

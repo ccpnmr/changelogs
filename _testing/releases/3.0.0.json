@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "version": "3.0.0",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2026-10-28T10:42:34Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Test1"
+        },
+        {
+          "type": "Added",
+          "message": "Test2"
+        },
+        {
+          "type": "Updated",
+          "message": "test3"
+        }
+      ]
+    }
+  ]
+}
