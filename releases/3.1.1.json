@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "version": "3.1.1",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2023-01-18T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Edit Collections pop-up"
+        },
+        {
+          "type": "Added",
+          "message": "Double-quantum diagonal and mouse cross-hairs"
+        },
+        {
+          "type": "Added",
+          "message": "copyPeakAssignments CCPN Macro"
+        },
+        {
+          "type": "Added",
+          "message": "Reading of complex NmrPipe time domain (unprocessed) data (experimental feature)"
+        },
+        {
+          "type": "Added",
+          "message": "Ubuntu 22 patches and distribution"
+        },
+        {
+          "type": "Added",
+          "message": "NEF Tutorials"
+        },
+        {
+          "type": "Added",
+          "message": "New Chemical Shift Mapping Module (alpha)"
+        },
+        {
+          "type": "Added",
+          "message": "Relaxation Data Analysis Module (alpha)"
+        },
+        {
+          "type": "Fixed",
+          "message": "NEF Import with wrongly defined IsotopeCode"
+        },
+        {
+          "type": "Fixed",
+          "message": "Peak picking on scaled spectra"
+        },
+        {
+          "type": "Fixed",
+          "message": "Printing: bug fixes and improvements"
+        },
+        {
+          "type": "Fixed",
+          "message": "Several GUI and Core bugs"
+        },
+        {
+          "type": "Fixed",
+          "message": "Minor bugs"
+        },
+        {
+          "type": "Updated",
+          "message": "Tutorials"
+        },
+        {
+          "type": "Improved",
+          "message": "Tables: appearance, speed and filtering options"
+        },
+        {
+          "type": "Improved",
+          "message": "Amino Acid Type Prediction"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisAssign: Backbone Assignment Settings"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisAssign: Peak Assigner"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisAssign: AssignmentGraph"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisStructure: Xplor NIH set up"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisStructure: wwPDB xml report import"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisScreen: HitAnalysis Module"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisScreen: Pipelines Module"
+        }
+      ],
+      "summary": "Small improvements and additions along with some new alpha functionality"
+    },
+    {
+      "revision": 2,
+      "published_at": "2023-04-21T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Tutorials: Introduction to NMR, Dynamics"
+        },
+        {
+          "type": "Added",
+          "message": "Read-only mode"
+        },
+        {
+          "type": "Fixed",
+          "message": "Autobackup"
+        },
+        {
+          "type": "Fixed",
+          "message": "minor bugs"
+        },
+        {
+          "type": "Updated",
+          "message": "Tutorial: Chemical Shift Perturbations"
+        },
+        {
+          "type": "Improved",
+          "message": "Validate Paths: new features including Search & Replace"
+        },
+        {
+          "type": "Improved",
+          "message": "Project Backup"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisScreen: Peak Snapping during Peak Copying"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisScreen: Matching Scores"
+        }
+      ]
+    }
+  ]
+}

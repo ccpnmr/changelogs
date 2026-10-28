@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "version": "3.2.6",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2024-09-06T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "out-of-plane peaks now selectable"
+        },
+        {
+          "type": "Added",
+          "message": "set dark / light theme in Preferences / Appearance"
+        },
+        {
+          "type": "Fixed",
+          "message": "bug fixes"
+        }
+      ]
+    },
+    {
+      "revision": 2,
+      "published_at": "2024-09-06T12:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Dark/light theme added"
+        },
+        {
+          "type": "Updated",
+          "message": "Out-of-plane peaks are now selectable"
+        },
+        {
+          "type": "Updated",
+          "message": "Spectra now visible in sidebar spectrumGroups"
+        },
+        {
+          "type": "Updated",
+          "message": "Restraint-analysis table - peaks remain grouped during searches"
+        },
+        {
+          "type": "Updated",
+          "message": "Search now allows searching on certain characters (e.g. ‘-’)"
+        },
+        {
+          "type": "Improved",
+          "message": "Improvements to UI"
+        },
+        {
+          "type": "Fixed",
+          "message": "Bug fixes"
+        }
+      ]
+    }
+  ]
+}

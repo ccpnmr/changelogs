@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "version": "3.2.12",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2025-04-23T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Table columns can now be saved"
+        },
+        {
+          "type": "Fixed",
+          "message": "bugs"
+        }
+      ]
+    },
+    {
+      "revision": 2,
+      "published_at": "2025-04-23T12:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Synthetic 15N/13C Noesy peakLists"
+        },
+        {
+          "type": "Added",
+          "message": "Added warnings to validate paths popup"
+        },
+        {
+          "type": "Added",
+          "message": "Added new options to chemical-shift table menu"
+        },
+        {
+          "type": "Added",
+          "message": "Added plots and improved report generation for Screening"
+        },
+        {
+          "type": "Updated",
+          "message": "Saving of table visible/hidden columns"
+        },
+        {
+          "type": "Updated",
+          "message": "Updates and bug fixes to Dynamics Module"
+        }
+      ],
+      "summary": "Bug fixes."
+    }
+  ]
+}

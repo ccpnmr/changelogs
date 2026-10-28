@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "version": "3.2.11",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2024-11-12T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "new table column header pop-up for Restraint Analysis Table"
+        },
+        {
+          "type": "Fixed",
+          "message": "bug fixes"
+        }
+      ]
+    },
+    {
+      "revision": 2,
+      "published_at": "2025-01-03T12:00:00Z",
+      "changes": [
+        {
+          "type": "Updated",
+          "message": "Updated restraint-analysis table column-header popup"
+        },
+        {
+          "type": "Updated",
+          "message": "Functionality to new-chain popup"
+        }
+      ],
+      "summary": "Bug fixes."
+    }
+  ]
+}

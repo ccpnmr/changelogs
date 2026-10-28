@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "version": "3.3.4",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2025-10-27T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Metabolomics features"
+        }
+      ]
+    }
+  ]
+}

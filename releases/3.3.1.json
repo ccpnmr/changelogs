@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "version": "3.3.1",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2025-04-23T12:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Automated Carbon Atom assignment in Pick & Assign module"
+        },
+        {
+          "type": "Added",
+          "message": "Pick & Assign module now works from Peak Lists as well as NmrResidue lists"
+        },
+        {
+          "type": "Added",
+          "message": "PowerPoint reports from HitAnalysis module"
+        },
+        {
+          "type": "Added",
+          "message": "Easy renumbering of NmrChains and Chains"
+        },
+        {
+          "type": "Added",
+          "message": "Easy reloading of spectra"
+        },
+        {
+          "type": "Updated",
+          "message": "Backbone Assignment Tutorial"
+        },
+        {
+          "type": "Improved",
+          "message": "Sequence prediction includes the i-1 chemical Shifts"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisStructure: Integration with ARTINA"
+        }
+      ],
+      "summary": "Minor code cleanup and bug fixes."
+    },
+    {
+      "revision": 2,
+      "published_at": "2025-05-14T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Automated carbon atom assignment in Pick & Assign module"
+        },
+        {
+          "type": "Added",
+          "message": "Pick & Assign module now works from Peak Lists as well as NmrResidue lists"
+        },
+        {
+          "type": "Added",
+          "message": "AnalysisScreen: PowerPoint reports from HitAnalysis module"
+        },
+        {
+          "type": "Added",
+          "message": "Easy renumbering of NmrChains and Chains"
+        },
+        {
+          "type": "Added",
+          "message": "Easy reloading of spectra"
+        },
+        {
+          "type": "Improved",
+          "message": "Sequence prediction includes the i-1 chemical shifts"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisStructure: Integration with ARTINA"
+        },
+        {
+          "type": "Updated",
+          "message": "Backbone Assignment Tutorial"
+        },
+        {
+          "type": "Fixed",
+          "message": "bug fixes"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "version": "3.2.5",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2024-07-05T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "AnalysisMetabolomics ProfileByReference: Overlay simulations of metabolite standards to identify and quantify substances in mixtures"
+        },
+        {
+          "type": "Added",
+          "message": "AnalysisMetabolomics ProfileByReference: Linking of spectrum displays to active simulations"
+        },
+        {
+          "type": "Added",
+          "message": "AnalysisMetabolomics ProfileByReference: Multiple active simulations"
+        },
+        {
+          "type": "Added",
+          "message": "AnalysisMetabolomics ProfileByReference: Profile state saveable and recoverable in project files"
+        },
+        {
+          "type": "Added",
+          "message": "AnalysisMetabolomics ProfileByReference: Supports reading from multiple database directories simultaneously"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisMetabolomics ProfileByReference: Improved control of active simulations and sample-spectrum focus"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisMetabolomics ProfileByReference: Improved robustness of sum-spectra recording"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisMetabolomics ProfileByReference: Improved user interface logic"
+        },
+        {
+          "type": "Added",
+          "message": "AnalysisMetabolomics CreateDatabaseReference: Export simulation parameters for spin-system and peak-list based spectra as NEF files"
+        },
+        {
+          "type": "Improved",
+          "message": "AnalysisMetabolomics CreateDatabaseReference: Improved user interface logic"
+        }
+      ],
+      "summary": "Additions and Improvements to AnalysisMetabolomics"
+    },
+    {
+      "revision": 2,
+      "published_at": "2024-07-05T15:31:28Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "AnalysisMetabolomics: ProfileByReference module Beta-version"
+        },
+        {
+          "type": "Added",
+          "message": "Overlay simulations of metabolite standards to identify and quantify substances in mixtures"
+        },
+        {
+          "type": "Added",
+          "message": "Linking of spectrum displays to active simulations"
+        },
+        {
+          "type": "Added",
+          "message": "Multiple active simulations"
+        },
+        {
+          "type": "Added",
+          "message": "Improved control of active simulations and sample-spectrum focus"
+        },
+        {
+          "type": "Added",
+          "message": "Improved robustness of sum-spectra recording"
+        },
+        {
+          "type": "Added",
+          "message": "Profile state saveable and recoverable in project files"
+        },
+        {
+          "type": "Added",
+          "message": "Supports reading from multiple database directories simultaneously"
+        },
+        {
+          "type": "Added",
+          "message": "Improved user interface logic"
+        },
+        {
+          "type": "Added",
+          "message": "AnalysisMetabolomics: CreateDatabaseReference module Alpha-version"
+        },
+        {
+          "type": "Added",
+          "message": "Export simulation parameters for spin-system and peak-list based spectra as NEF files"
+        },
+        {
+          "type": "Added",
+          "message": "Improved user interface logic"
+        }
+      ]
+    }
+  ]
+}

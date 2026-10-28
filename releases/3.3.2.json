@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "version": "3.3.2",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2025-05-05T12:00:00Z",
+      "changes": [
+        {
+          "type": "Updated",
+          "message": "Backbone Assignment Tutorial"
+        },
+        {
+          "type": "Updated",
+          "message": "NEF import of Chemical Shift Lists - can now be selected for separate peaklists"
+        },
+        {
+          "type": "Updated",
+          "message": "Changing font size in preferences now updates axes"
+        },
+        {
+          "type": "Updated",
+          "message": "Improved positioning of fonts during printing"
+        }
+      ],
+      "summary": "Minor code cleanup and bug fixes."
+    },
+    {
+      "revision": 2,
+      "published_at": "2025-05-12T12:00:00Z",
+      "changes": [
+        {
+          "type": "Fixed",
+          "message": "Fixed crash in 1D spectrumDisplay when stacking spectra"
+        }
+      ]
+    },
+    {
+      "revision": 3,
+      "published_at": "2025-05-14T00:00:00Z",
+      "changes": [
+        {
+          "type": "Improved",
+          "message": "Changing font sizes in Preferences now updates axes"
+        },
+        {
+          "type": "Improved",
+          "message": "Font sizes during printing"
+        },
+        {
+          "type": "Fixed",
+          "message": "Crash in 1D SpectrumDisplay when stacking spectra"
+        },
+        {
+          "type": "Fixed",
+          "message": "Code cleanup"
+        },
+        {
+          "type": "Fixed",
+          "message": "bug fixes"
+        }
+      ]
+    }
+  ]
+}

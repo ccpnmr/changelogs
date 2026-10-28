@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "version": "3.2.7",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2024-10-28T00:00:00Z",
+      "changes": [
+        {
+          "type": "Improved",
+          "message": "Addition of \"Don't show this again\" tick box in various places"
+        },
+        {
+          "type": "Added",
+          "message": "Simultaneous Pick & Assign in multiple SpectrumDisplays"
+        },
+        {
+          "type": "Added",
+          "message": "1D display can be flipped to vertical"
+        },
+        {
+          "type": "Improved",
+          "message": "Improved handling of paths when loading data"
+        },
+        {
+          "type": "Improved",
+          "message": "Restraint Analysis Table improvements"
+        },
+        {
+          "type": "Improved",
+          "message": "speed-up of table searching"
+        },
+        {
+          "type": "Improved",
+          "message": "DQ cursor improvements"
+        }
+      ]
+    },
+    {
+      "revision": 2,
+      "published_at": "2024-10-28T12:00:00Z",
+      "changes": [
+        {
+          "type": "Updated",
+          "message": "Now supports viewing 1D spectra in a flipped orientation"
+        },
+        {
+          "type": "Improved",
+          "message": "Improvements to how the cursor interacts with spectral data"
+        },
+        {
+          "type": "Updated",
+          "message": "Table search functionality has been optimized for faster performance."
+        },
+        {
+          "type": "Updated",
+          "message": "Updates to restraint-analysis table: appearance and performance"
+        },
+        {
+          "type": "Improved",
+          "message": "Improved handling of LS/LD paths"
+        },
+        {
+          "type": "Updated",
+          "message": "The Pick & Assign tool now supports working with multiple Spectrum Displays simultaneously"
+        },
+        {
+          "type": "Added",
+          "message": "“Don’t show this again” tick box added to more popups"
+        },
+        {
+          "type": "Updated",
+          "message": "NEF and STAR files can now be imported even if the file extension is not explicitly provided when using the file menu"
+        },
+        {
+          "type": "Added",
+          "message": "A new type of dialog box has been implemented, which includes a details section to provide more in-depth information"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "version": "3.3.0",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2025-04-23T12:00:00Z",
+      "changes": [
+        {
+          "type": "Updated",
+          "message": "Overall UI stability"
+        },
+        {
+          "type": "Fixed",
+          "message": "Bug fixes"
+        }
+      ]
+    },
+    {
+      "revision": 2,
+      "published_at": "2025-05-14T00:00:00Z",
+      "changes": [
+        {
+          "type": "Fixed",
+          "message": "bug fixes"
+        }
+      ],
+      "summary": "Stability Release"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "version": "3.0.4",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2021-04-21T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Support for small molecules: new Chains can be defined and imported into AnalysisAssign"
+        },
+        {
+          "type": "Added",
+          "message": "Improvements to Drag & Drop of NmrAtoms for ambiguous peak assignments"
+        },
+        {
+          "type": "Added",
+          "message": "Macro to calculate Distance Restraints from a peak list"
+        },
+        {
+          "type": "Fixed",
+          "message": "general bug fixes for improved stability"
+        },
+        {
+          "type": "Fixed",
+          "message": "NEF parser general bug fixes"
+        },
+        {
+          "type": "Updated",
+          "message": "Academic licence extended to 2100 for usability"
+        },
+        {
+          "type": "Improved",
+          "message": "general graphical speed optimisations"
+        }
+      ],
+      "summary": "Stability Release with MacOS Big Sur and ARM compatibility"
+    }
+  ]
+}

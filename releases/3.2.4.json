@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "version": "3.2.4",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2024-07-05T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "mmCIF Reader"
+        },
+        {
+          "type": "Added",
+          "message": "CCPN Macro: Assignment Statistics (beta version)"
+        },
+        {
+          "type": "Added",
+          "message": "Propagate Assignments feature (also from single source peak)"
+        },
+        {
+          "type": "Added",
+          "message": "Copy Assignments feature (also from single source peak)"
+        },
+        {
+          "type": "Added",
+          "message": "CANCOCX Reference Experiment Type and synthetic PeakList simulation"
+        },
+        {
+          "type": "Added",
+          "message": "Peptides: Macro to create a Noesy PeakList from a PeakList containing multiplets"
+        },
+        {
+          "type": "Added",
+          "message": "Peptides: Macro to pick/place peaks for whole NmrResidue"
+        },
+        {
+          "type": "Added",
+          "message": "Peptides: Documentation"
+        },
+        {
+          "type": "Improved",
+          "message": "Ability to “Pick and Assign” on multiple rows in one go"
+        },
+        {
+          "type": "Improved",
+          "message": "Improvements to loading/saving read-only handling"
+        },
+        {
+          "type": "Improved",
+          "message": "More “don't show again” options"
+        },
+        {
+          "type": "Improved",
+          "message": "Added code to all classes to aid macro-writing"
+        }
+      ]
+    },
+    {
+      "revision": 2,
+      "published_at": "2024-07-05T17:30:41Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "mmCIF Reader"
+        },
+        {
+          "type": "Added",
+          "message": "CCPN Macro: Assignment Statistics (beta version)"
+        },
+        {
+          "type": "Added",
+          "message": "Propagate Assignments feature (also from single source peak)"
+        },
+        {
+          "type": "Added",
+          "message": "Copy Assignments feature (also from single source peak)"
+        },
+        {
+          "type": "Added",
+          "message": "CANCOCX Reference Experiment Type and synthetic PeakList simulation"
+        },
+        {
+          "type": "Added",
+          "message": "Peptides: Macro to create a Noesy PeakList from a PeakList containing multiplets"
+        },
+        {
+          "type": "Added",
+          "message": "Peptides: Macro to pick/place peaks for whole NmrResidue"
+        },
+        {
+          "type": "Added",
+          "message": "Peptides: Documentation"
+        },
+        {
+          "type": "Improved",
+          "message": "Ability to “Pick and Assign” on multiple rows in one go"
+        },
+        {
+          "type": "Improved",
+          "message": "Improvements to loading/saving read-only handling"
+        },
+        {
+          "type": "Improved",
+          "message": "More “don't show again” options"
+        },
+        {
+          "type": "Improved",
+          "message": "Added code to all classes to aid macro-writing"
+        }
+      ]
+    }
+  ]
+}

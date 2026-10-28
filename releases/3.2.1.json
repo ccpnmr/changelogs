@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "version": "3.2.1",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2023-11-23T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "New simulated Experiment Types"
+        },
+        {
+          "type": "Added",
+          "message": "New Tips of the Day"
+        },
+        {
+          "type": "Fixed",
+          "message": "Macro Writers: project.newCollection() fixed"
+        },
+        {
+          "type": "Updated",
+          "message": "Tutorials and Macros"
+        },
+        {
+          "type": "Improved",
+          "message": "Macro Writers: newPeak() allows setting of ClusterID"
+        }
+      ]
+    },
+    {
+      "revision": 2,
+      "published_at": "2023-12-15T12:13:46Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "New simulated Experiment Types available"
+        },
+        {
+          "type": "Added",
+          "message": "Added more tips to tip-of-the-day"
+        },
+        {
+          "type": "Updated",
+          "message": "Updates to tutorials and macros"
+        },
+        {
+          "type": "Updated",
+          "message": "Call signature for newPeak now allows setting of clusterId"
+        },
+        {
+          "type": "Updated",
+          "message": "The call signature for project.newCollection() has changed to reflect an error in the call parameters"
+        }
+      ],
+      "summary": "Changes in version 3.2.1: 2023-11-23 15:20 (utc)"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "version": "3.2.3",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2024-07-05T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Tables: hidden columns can now be saved/restored"
+        },
+        {
+          "type": "Fixed",
+          "message": "Creation of marks from nmrAtoms/nmrResidues with multiple ChemicalShiftLists"
+        },
+        {
+          "type": "Fixed",
+          "message": "Inconsistent new naming"
+        },
+        {
+          "type": "Updated",
+          "message": "Simulated Spectra are now called synthetic PeakLists"
+        },
+        {
+          "type": "Improved",
+          "message": "Macro Editor"
+        },
+        {
+          "type": "Improved",
+          "message": "Right-mouse menu options for multiplets"
+        }
+      ]
+    },
+    {
+      "revision": 2,
+      "published_at": "2024-07-05T15:25:23Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Tables: hidden columns can now be saved/restored"
+        },
+        {
+          "type": "Fixed",
+          "message": "Inconsistent new naming"
+        },
+        {
+          "type": "Fixed",
+          "message": "Creation of marks from nmrAtoms/nmrResidues with multiple ChemicalShiftLists"
+        },
+        {
+          "type": "Updated",
+          "message": "Simulated Spectra are now called synthetic PeakLists"
+        },
+        {
+          "type": "Improved",
+          "message": "Right-mouse menu options for multiplets"
+        },
+        {
+          "type": "Improved",
+          "message": "MacroEditor improvements"
+        }
+      ]
+    }
+  ]
+}

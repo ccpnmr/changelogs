@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "version": "3.2.0",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2023-07-06T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Dedicated Relaxation Analysis module with several fitting models"
+        },
+        {
+          "type": "Added",
+          "message": "New Chemical Shift Mapping Analysis module with new fitting models"
+        },
+        {
+          "type": "Added",
+          "message": "New scientific packages to the environment (RDKit, EMCEE etc)"
+        },
+        {
+          "type": "Added",
+          "message": "Auto and manual arrangement of peak labels"
+        },
+        {
+          "type": "Added",
+          "message": "Simulated 13C HSQC peak list"
+        },
+        {
+          "type": "Added",
+          "message": "1D strips"
+        },
+        {
+          "type": "Added",
+          "message": "Pinning for strips"
+        },
+        {
+          "type": "Added",
+          "message": "Marks on individual strips"
+        },
+        {
+          "type": "Added",
+          "message": "Metabolomics module: 1D spectrum simulator"
+        },
+        {
+          "type": "Added",
+          "message": "Metabolomics module: Profile by Reference"
+        },
+        {
+          "type": "Added",
+          "message": "Metabolomics module: Create Database Reference"
+        },
+        {
+          "type": "Added",
+          "message": "Tutorials: intro to NMR, Dynamics, CSM, BRMB/NMR-STAR, NEF-Pipelines"
+        },
+        {
+          "type": "Added",
+          "message": "2D multiplet picker"
+        },
+        {
+          "type": "Added",
+          "message": "New core object Bonds"
+        },
+        {
+          "type": "Fixed",
+          "message": "General GL bug fixes"
+        },
+        {
+          "type": "Fixed",
+          "message": "Threading issues caused by the IPython console history manager"
+        },
+        {
+          "type": "Fixed",
+          "message": "DataTable bug on tiny/huge numbers"
+        },
+        {
+          "type": "Fixed",
+          "message": "Series editor popup"
+        },
+        {
+          "type": "Updated",
+          "message": "Conda environment with the latest updates (Python 3.10, Numpy, Scipy, QT etc.)"
+        },
+        {
+          "type": "Improved",
+          "message": "Auto backup settings"
+        },
+        {
+          "type": "Improved",
+          "message": "Read-only mode"
+        },
+        {
+          "type": "Improved",
+          "message": "Tables layout and formatting"
+        },
+        {
+          "type": "Improved",
+          "message": "Tip of the Day"
+        },
+        {
+          "type": "Improved",
+          "message": "Validate Paths: new features including Search & Replace"
+        },
+        {
+          "type": "Improved",
+          "message": "Navigation among displays"
+        }
+      ],
+      "summary": "A new release with plenty of new features! (Requires a fresh download)",
+      "url": "https://ccpn.ac.uk/software/downloads/"
+    },
+    {
+      "revision": 2,
+      "published_at": "2023-11-23T14:12:16Z",
+      "changes": [
+        {
+          "type": "Updated",
+          "message": "The update mechanism will now automatically iterate through all available updates. This is sometimes required, for example, to actually fix bugs in the updater itself"
+        },
+        {
+          "type": "Improved",
+          "message": "Spectrum-displays should now be a little quicker for Windows after a fix for CentOS8 slowed them down again."
+        },
+        {
+          "type": "Updated",
+          "message": "For the macro-editor, and the python console: access to the core-classes is available by import ccpn.core"
+        },
+        {
+          "type": "Updated",
+          "message": "... other"
+        }
+      ],
+      "summary": "There have been a few changes to the update mechanism."
+    },
+    {
+      "revision": 3,
+      "published_at": "2023-11-24T11:18:12Z",
+      "changes": [
+        {
+          "type": "Updated",
+          "message": "When dragging peaks with the right-mouse button, the line-widths and volumes will be set to None to indicate they are no longer valid for the maually moved peak."
+        },
+        {
+          "type": "Added",
+          "message": "More popup warnings have been added to protect against accidentally deleting core objects."
+        },
+        {
+          "type": "Added",
+          "message": "Added \"Don't show this again\" option to some popups. These can be re-enabled in preferences."
+        }
+      ]
+    }
+  ]
+}

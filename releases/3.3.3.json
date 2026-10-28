@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "version": "3.3.3",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2025-10-22T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Assignment Inspector Navigation"
+        },
+        {
+          "type": "Added",
+          "message": "Backbone Assignment Module can use multiple Display Groups to separate aliphatic and carbonyl regions"
+        },
+        {
+          "type": "Added",
+          "message": "Show line widths in ppm - change to PeakTables Settings"
+        },
+        {
+          "type": "Added",
+          "message": "Save traces as 1D now in Selected Peak Context Menu"
+        },
+        {
+          "type": "Added",
+          "message": "Centre Z-planes on peak"
+        },
+        {
+          "type": "Added",
+          "message": "Residue Info now includes picture with AA structure and atom nomenclature"
+        },
+        {
+          "type": "Added",
+          "message": "Interactive scaling of 1D traces"
+        },
+        {
+          "type": "Added",
+          "message": "Auto-colour spectra in SpectrumGroup with a spectrum colour scheme"
+        },
+        {
+          "type": "Fixed",
+          "message": "1D traces are auto-scaled"
+        },
+        {
+          "type": "Fixed",
+          "message": "Re-added single/double-cursor toggling from menu and shortcuts"
+        },
+        {
+          "type": "Improved",
+          "message": "Restraints in collections will now be grouped in the restraint-analysis inspector"
+        },
+        {
+          "type": "Improved",
+          "message": "Copy peaks options improved"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "version": "3.2.8",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2024-10-29T00:00:00Z",
+      "changes": [
+        {
+          "type": "Fixed",
+          "message": "Various updates and fixes"
+        }
+      ],
+      "summary": "Metabolomics Release"
+    },
+    {
+      "revision": 2,
+      "published_at": "2024-10-29T12:00:00Z",
+      "changes": [
+        {
+          "type": "Updated",
+          "message": "Beta release of Metabolomics PBR and CDR (profile by reference & create database reference)"
+        },
+        {
+          "type": "Updated",
+          "message": "UI improvements"
+        },
+        {
+          "type": "Fixed",
+          "message": "Bug fixes"
+        }
+      ]
+    }
+  ]
+}

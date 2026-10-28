@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "version": "3.2.2",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2024-04-11T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Update mechanism, now with a changelog in the user popup"
+        },
+        {
+          "type": "Added",
+          "message": "New sequence editors in the Create Chain pop-up"
+        },
+        {
+          "type": "Added",
+          "message": "Drag and drop of custom ChemComps and ability to use them in new Chains"
+        },
+        {
+          "type": "Added",
+          "message": "New Macro: setUpCustomNmrResidues macro for use on e.g. CANCO"
+        },
+        {
+          "type": "Added",
+          "message": "New resources framework for Reference Chemical Shifts and more"
+        },
+        {
+          "type": "Added",
+          "message": "New Tips of the Day"
+        },
+        {
+          "type": "Added",
+          "message": "Assign: SyncSpectrumDisplays macro to enable synchronisation of axes between different spectrumDisplays"
+        },
+        {
+          "type": "Added",
+          "message": "Assign: New Decay model for the Dynamics module"
+        },
+        {
+          "type": "Added",
+          "message": "Screen: Prescreening inspection"
+        },
+        {
+          "type": "Added",
+          "message": "Screen: Pipeline can run in a separate thread with a progress bar (experimental feature!)"
+        },
+        {
+          "type": "Added",
+          "message": "Metabolomics: Unknown substance simulations"
+        },
+        {
+          "type": "Added",
+          "message": "Metabolomics: CreateDatabaseReference: a plugin that allows users to make their own simulated 1H spectra"
+        },
+        {
+          "type": "Fixed",
+          "message": "Screen: HitAnalysis module general bug fixes"
+        },
+        {
+          "type": "Fixed",
+          "message": "Screen: QBind analysis module general bug fixes"
+        },
+        {
+          "type": "Improved",
+          "message": "Improved some figures with larger text font sizes."
+        },
+        {
+          "type": "Improved",
+          "message": "Screen: Peak snapping 1D algorithm"
+        },
+        {
+          "type": "Improved",
+          "message": "Screen: Peak matching 1D algorithm"
+        },
+        {
+          "type": "Improved",
+          "message": "Screen: Speed optimisation of the pipeline"
+        },
+        {
+          "type": "Improved",
+          "message": "Screen: QBind analysis now works independently from the hitAnalysis module"
+        },
+        {
+          "type": "Improved",
+          "message": "Screen: QBind analysis includes now the “Qbind Error” and other features."
+        },
+        {
+          "type": "Improved",
+          "message": "Metabolomics: Simulations can now shift multiplets together to adapt to reference offset"
+        },
+        {
+          "type": "Improved",
+          "message": "Metabolomics: Improved simulation speed for larger spin system matrices"
+        },
+        {
+          "type": "Improved",
+          "message": "Metabolomics: ProfileByReference now uses integration rather than just scale for measuring metabolite relative concentrations"
+        },
+        {
+          "type": "Improved",
+          "message": "Metabolomics: Peak width is properly represented as Hz rather than a factor of ppm"
+        },
+        {
+          "type": "Improved",
+          "message": "Metabolomics: Added reset buttons for multiplet chemical shifts"
+        },
+        {
+          "type": "Updated",
+          "message": "Signal to noise calculation and Estimate Noise routines"
+        },
+        {
+          "type": "Updated",
+          "message": "Dynamics Tutorials"
+        }
+      ],
+      "summary": "You can update to this version using the update server, though we have also provided new builds for a direct download of the full program for those who haven't previously installed the program."
+    },
+    {
+      "revision": 2,
+      "published_at": "2024-04-17T11:54:16Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "New sequence editors in the Create Chain popup."
+        },
+        {
+          "type": "Added",
+          "message": "New Tips of the Day."
+        },
+        {
+          "type": "Added",
+          "message": "New Macro: setUpCustomNmrResidues macro for use on e.g. CANCO."
+        },
+        {
+          "type": "Added",
+          "message": "Drag-and-drop of custom ChemComps and ability to use them in new Chains."
+        },
+        {
+          "type": "Added",
+          "message": "New resources framework for reference chemicalShifts and more."
+        },
+        {
+          "type": "Updated",
+          "message": "Peak snapping 1D algorithm."
+        },
+        {
+          "type": "Updated",
+          "message": "Updated dynamics tutorials."
+        },
+        {
+          "type": "Updated",
+          "message": "Updated signal to noise calculation and Estimate Noise routines."
+        },
+        {
+          "type": "Updated",
+          "message": "Update mechanism, now with a changelog in the user popup."
+        },
+        {
+          "type": "Added",
+          "message": "New Decay model for the Dynamics module."
+        },
+        {
+          "type": "Updated",
+          "message": "SyncSpectrumDisplays macro to enable synchronisation of axes between different spectrumDisplays."
+        },
+        {
+          "type": "Updated",
+          "message": "Includes prescreening inspection."
+        },
+        {
+          "type": "Updated",
+          "message": "Pipeline can run in a separate thread with a progress bar (experimental feature!)"
+        },
+        {
+          "type": "Updated",
+          "message": "HitAnalysis module general bug fixes."
+        },
+        {
+          "type": "Updated",
+          "message": "QBind analysis module general bug fixes."
+        },
+        {
+          "type": "Improved",
+          "message": "Speed optimisation of the pipeline."
+        },
+        {
+          "type": "Updated",
+          "message": "QBind analysis now works independently from the hitAnalysis module\\ ."
+        },
+        {
+          "type": "Updated",
+          "message": "QBind analysis now includes the 'Qbind Error' and other features."
+        },
+        {
+          "type": "Updated",
+          "message": "Unknown substance simulations."
+        },
+        {
+          "type": "Updated",
+          "message": "CreateDatabaseReference: a plugin that allows users to make their own simulated 1H spectra."
+        },
+        {
+          "type": "Updated",
+          "message": "Simulations can now shift multiplets together to adapt to reference offset."
+        },
+        {
+          "type": "Improved",
+          "message": "Improved simulation speed for larger spin system matrices."
+        },
+        {
+          "type": "Updated",
+          "message": "ProfileByReference now uses integration rather than just scale for measuring metabolite relative concentrations."
+        },
+        {
+          "type": "Updated",
+          "message": "Peak width is properly represented as Hz rather than a factor of ppm."
+        },
+        {
+          "type": "Added",
+          "message": "Added reset buttons for multiplet chemical shifts."
+        }
+      ],
+      "summary": "Assign"
+    },
+    {
+      "revision": 3,
+      "published_at": "2024-04-17T11:56:23Z",
+      "changes": [],
+      "summary": "Minor update to allow an Ubuntu18.04 release."
+    }
+  ]
+}

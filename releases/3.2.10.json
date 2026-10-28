@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "version": "3.2.10",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2024-11-11T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "New equations for Kd calculations"
+        },
+        {
+          "type": "Added",
+          "message": "Global fitting"
+        },
+        {
+          "type": "Fixed",
+          "message": "bug fixes"
+        }
+      ],
+      "summary": "Improvements to Chemical Shift Mapping module"
+    },
+    {
+      "revision": 2,
+      "published_at": "2024-11-12T12:00:00Z",
+      "changes": [
+        {
+          "type": "Improved",
+          "message": "Improvements and updates to Chemical Shift Mapping module"
+        },
+        {
+          "type": "Updated",
+          "message": "UI improvements and updates"
+        }
+      ],
+      "summary": "Updates:"
+    }
+  ]
+}

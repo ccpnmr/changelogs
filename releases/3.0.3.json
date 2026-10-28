@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "version": "3.0.3",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2021-01-11T00:00:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "New context menu items on sidebar, including actions for cloning SpectrumGroups and ChemicalShiftLists"
+        },
+        {
+          "type": "Added",
+          "message": "New context menu items and toolbar shortcuts for 1D spectrum Display"
+        },
+        {
+          "type": "Added",
+          "message": "New fonts for SpectrumDisplays and widgets"
+        },
+        {
+          "type": "Fixed",
+          "message": "Various minor bug fixes on GUI items and core objects"
+        },
+        {
+          "type": "Fixed",
+          "message": "Significant speed optimisation on opening and displaying spectra"
+        },
+        {
+          "type": "Fixed",
+          "message": "Validating SSL certificates"
+        },
+        {
+          "type": "Fixed",
+          "message": "Reading NMRStar files containing multiple chains"
+        },
+        {
+          "type": "Updated",
+          "message": "New and updated html video tutorial files"
+        }
+      ]
+    }
+  ]
+}
