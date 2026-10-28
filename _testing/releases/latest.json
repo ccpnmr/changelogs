@@ -2,10 +2,10 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "3.6.0",
-      "filename": "3.6.0.json",
+      "version": "3.5.0",
+      "filename": "3.5.0.json",
       "latest_revision": 1,
-      "published_at": "2026-10-28T22:41:22Z"
+      "published_at": "2026-10-28T22:49:36Z"
     },
     "beta": {
       "version": "3.0.0.beta",

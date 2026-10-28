@@ -3,6 +3,13 @@
   "changelog_count": 11,
   "releases": [
     {
+      "version": "3.5.0",
+      "filename": "3.5.0.json",
+      "channel": "stable",
+      "latest_revision": 1,
+      "published_at": "2026-10-28T22:49:36Z"
+    },
+    {
       "version": "3.6.0",
       "filename": "3.6.0.json",
       "channel": "stable",
