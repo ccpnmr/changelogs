@@ -9,13 +9,7 @@
       "latest_revision": 1,
       "published_at": "2026-10-28T22:49:36Z"
     },
-    {
-      "version": "3.6.0",
-      "filename": "3.6.0.json",
-      "channel": "stable",
-      "latest_revision": 1,
-      "published_at": "2026-10-28T22:41:22Z"
-    },
+
     {
       "version": "3.4.8",
       "filename": "3.4.8.json",
