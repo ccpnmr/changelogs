@@ -2,6 +2,13 @@
   "schema_version": 1,
   "releases": [
     {
+      "version": "3.1.2",
+      "filename": "3.1.2.json",
+      "channel": "stable",
+      "latest_revision": 1,
+      "published_at": "2026-10-28T12:32:07Z"
+    },
+    {
       "version": "3.0.0.beta",
       "filename": "3.0.0.beta.json",
       "channel": "beta",
