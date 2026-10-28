@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "version": "3.4.7",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2026-10-28T20:02:12Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "a test"
+        },
+        {
+          "type": "Fixed",
+          "message": "another"
+        },
+        {
+          "type": "Improved",
+          "message": "u"
+        }
+      ],
+      "summary": "a test commit"
+    }
+  ]
+}
