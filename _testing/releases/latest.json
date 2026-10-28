@@ -4,8 +4,8 @@
     "stable": {
       "version": "3.0.0",
       "filename": "3.0.0.json",
-      "latest_revision": 2,
-      "published_at": "2026-10-28T11:54:52Z"
+      "latest_revision": 3,
+      "published_at": "2026-10-28T12:17:03Z"
     },
     "beta": {
       "version": "1.0.0.beta",
