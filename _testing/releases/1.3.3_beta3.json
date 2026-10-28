@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "version": "1.3.3_beta3",
+  "published_at": "2026-10-28T09:54:33Z",
+  "changes": [
+    {
+      "type": "Added",
+      "message": "test3"
+    }
+  ]
+}
