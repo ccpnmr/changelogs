@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "version": "3.0.0.beta",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2026-10-28T12:18:40Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "test"
+        },
+        {
+          "type": "Fixed",
+          "message": "u"
+        }
+      ],
+      "summary": "a beta"
+    }
+  ]
+}
