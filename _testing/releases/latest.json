@@ -1,6 +1,12 @@
 {
   "schema_version": 1,
   "channels": {
+    "beta": {
+      "version": "1.0.0.beta",
+      "filename": "1.0.0.beta.json",
+      "latest_revision": 1,
+      "published_at": "2026-10-28T10:32:55Z"
+    },
     "stable": {
       "version": "1.0.0",
       "filename": "1.0.0.json",
