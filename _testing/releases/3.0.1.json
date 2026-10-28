@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "version": "3.0.1",
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2026-10-28T11:41:46Z",
+      "changes": [
+        {
+          "type": "Updated",
+          "message": "another test"
+        }
+      ]
+    }
+  ]
+}
