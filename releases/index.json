@@ -1,9 +1,11 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "changelog_count": 22,
   "releases": [
     {
       "version": "3.3.4",
+      "updateFromVersion": "3.3.3",
+      "deprecated": true,
       "filename": "3.3.4.json",
       "channel": "stable",
       "latest_revision": 1,
@@ -11,6 +13,8 @@
     },
     {
       "version": "3.3.3",
+      "updateFromVersion": "3.3.2",
+      "deprecated": true,
       "filename": "3.3.3.json",
       "channel": "stable",
       "latest_revision": 1,
@@ -18,6 +22,8 @@
     },
     {
       "version": "3.3.2",
+      "updateFromVersion": "3.3.1",
+      "deprecated": true,
       "filename": "3.3.2.json",
       "channel": "stable",
       "latest_revision": 3,
@@ -25,6 +31,8 @@
     },
     {
       "version": "3.3.1",
+      "updateFromVersion": "3.3.0",
+      "deprecated": true,
       "filename": "3.3.1.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -32,6 +40,8 @@
     },
     {
       "version": "3.3.0",
+      "updateFromVersion": "3.2.12",
+      "deprecated": true,
       "filename": "3.3.0.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -39,6 +49,8 @@
     },
     {
       "version": "3.2.12",
+      "updateFromVersion": "3.2.11",
+      "deprecated": true,
       "filename": "3.2.12.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -46,6 +58,8 @@
     },
     {
       "version": "3.2.11",
+      "updateFromVersion": "3.2.10",
+      "deprecated": true,
       "filename": "3.2.11.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -53,6 +67,8 @@
     },
     {
       "version": "3.2.10",
+      "updateFromVersion": "3.2.9",
+      "deprecated": true,
       "filename": "3.2.10.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -60,6 +76,8 @@
     },
     {
       "version": "3.2.9",
+      "updateFromVersion": "3.2.8",
+      "deprecated": true,
       "filename": "3.2.9.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -67,6 +85,8 @@
     },
     {
       "version": "3.2.8",
+      "updateFromVersion": "3.2.7",
+      "deprecated": true,
       "filename": "3.2.8.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -74,6 +94,8 @@
     },
     {
       "version": "3.2.7",
+      "updateFromVersion": "3.2.6",
+      "deprecated": true,
       "filename": "3.2.7.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -81,6 +103,8 @@
     },
     {
       "version": "3.2.6",
+      "updateFromVersion": "3.2.5",
+      "deprecated": true,
       "filename": "3.2.6.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -88,6 +112,8 @@
     },
     {
       "version": "3.2.4",
+      "updateFromVersion": "3.2.3",
+      "deprecated": true,
       "filename": "3.2.4.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -95,6 +121,8 @@
     },
     {
       "version": "3.2.5",
+      "updateFromVersion": "3.2.4",
+      "deprecated": true,
       "filename": "3.2.5.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -102,6 +130,8 @@
     },
     {
       "version": "3.2.3",
+      "updateFromVersion": "3.2.2",
+      "deprecated": true,
       "filename": "3.2.3.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -109,6 +139,8 @@
     },
     {
       "version": "3.2.2",
+      "updateFromVersion": null,
+      "deprecated": true,
       "filename": "3.2.2.json",
       "channel": "stable",
       "latest_revision": 3,
@@ -116,6 +148,8 @@
     },
     {
       "version": "3.2.1",
+      "updateFromVersion": "3.2.0",
+      "deprecated": true,
       "filename": "3.2.1.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -123,6 +157,8 @@
     },
     {
       "version": "3.2.0",
+      "updateFromVersion": null,
+      "deprecated": true,
       "filename": "3.2.0.json",
       "channel": "stable",
       "latest_revision": 3,
@@ -130,6 +166,8 @@
     },
     {
       "version": "3.1.1",
+      "updateFromVersion": null,
+      "deprecated": true,
       "filename": "3.1.1.json",
       "channel": "stable",
       "latest_revision": 2,
@@ -137,6 +175,8 @@
     },
     {
       "version": "3.1.0",
+      "updateFromVersion": "3.0.4",
+      "deprecated": true,
       "filename": "3.1.0.json",
       "channel": "stable",
       "latest_revision": 1,
@@ -144,6 +184,8 @@
     },
     {
       "version": "3.0.4",
+      "updateFromVersion": null,
+      "deprecated": true,
       "filename": "3.0.4.json",
       "channel": "stable",
       "latest_revision": 1,
@@ -151,6 +193,8 @@
     },
     {
       "version": "3.0.3",
+      "updateFromVersion": null,
+      "deprecated": true,
       "filename": "3.0.3.json",
       "channel": "stable",
       "latest_revision": 1,

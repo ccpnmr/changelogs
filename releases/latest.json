@@ -1,8 +1,10 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "channels": {
     "stable": {
       "version": "3.3.4",
+      "updateFromVersion": "3.3.3",
+      "deprecated": true,
       "filename": "3.3.4.json",
       "latest_revision": 1,
       "published_at": "2025-10-27T00:00:00Z"

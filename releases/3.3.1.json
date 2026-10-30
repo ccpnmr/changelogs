@@ -1,6 +1,8 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "version": "3.3.1",
+  "updateFromVersion": "3.3.0",
+  "deprecated": true,
   "revisions": [
     {
       "revision": 1,
