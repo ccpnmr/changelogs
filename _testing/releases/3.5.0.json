@@ -1,0 +1,20 @@
+{
+  "schema_version": 2,
+  "version": "3.5.0",
+  "updateFromVersion": null,
+  "deprecated": false,
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2026-10-30T10:51:21Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "dynamics"
+        }
+      ],
+      "summary": "A new test of release",
+      "url": "https://ccpn.ac.uk/software/downloads/version-3-5-0-dynamics-downloads/"
+    }
+  ]
+}
