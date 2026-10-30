@@ -4,7 +4,7 @@
     "stable": {
       "version": "3.6.1",
       "updateFromVersion": "3.6.0",
-      "deprecated": true,
+      "deprecated": false,
       "filename": "3.6.1.json",
       "latest_revision": 1,
       "published_at": "2026-10-30T11:11:50Z"
