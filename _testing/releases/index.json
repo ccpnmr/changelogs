@@ -1,7 +1,16 @@
 {
   "schema_version": 2,
-  "changelog_count": 7,
+  "changelog_count": 8,
   "releases": [
+    {
+      "version": "3.5.1.channel-AZ",
+      "updateFromVersion": "3.5.0.channel-AZ",
+      "deprecated": false,
+      "filename": "3.5.1.channel-AZ.json",
+      "channel": "az",
+      "latest_revision": 1,
+      "published_at": "2026-10-30T11:20:27Z"
+    },
     {
       "version": "3.5.0.channel-AZ",
       "updateFromVersion": null,

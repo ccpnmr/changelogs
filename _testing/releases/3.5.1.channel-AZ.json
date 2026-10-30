@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "version": "3.5.1.channel-AZ",
+  "updateFromVersion": "3.5.0.channel-AZ",
+  "deprecated": false,
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2026-10-30T11:20:27Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "new"
+        }
+      ]
+    }
+  ]
+}
