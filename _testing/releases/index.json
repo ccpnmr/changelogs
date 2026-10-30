@@ -1,7 +1,16 @@
 {
   "schema_version": 2,
-  "changelog_count": 3,
+  "changelog_count": 4,
   "releases": [
+    {
+      "version": "3.5.1",
+      "updateFromVersion": "3.5.0",
+      "deprecated": false,
+      "filename": "3.5.1.json",
+      "channel": "stable",
+      "latest_revision": 1,
+      "published_at": "2026-10-30T10:58:12Z"
+    },
     {
       "version": "3.5.0",
       "updateFromVersion": null,
