@@ -5,7 +5,7 @@
     {
       "version": "3.6.1",
       "updateFromVersion": "3.6.0",
-      "deprecated": true,
+      "deprecated": false,
       "filename": "3.6.1.json",
       "channel": "stable",
       "latest_revision": 1,
