@@ -3,6 +3,15 @@
   "changelog_count": 6,
   "releases": [
     {
+      "version": "3.4.8",
+      "updateFromVersion": "3.4.7",
+      "deprecated": false,
+      "filename": "3.4.8.json",
+      "channel": "stable",
+      "latest_revision": 2,
+      "published_at": "2026-10-30T11:15:53Z"
+    },
+    {
       "version": "3.6.1",
       "updateFromVersion": "3.6.0",
       "deprecated": false,
@@ -37,15 +46,6 @@
       "channel": "stable",
       "latest_revision": 1,
       "published_at": "2026-10-30T10:51:21Z"
-    },
-    {
-      "version": "3.4.8",
-      "updateFromVersion": "3.4.7",
-      "deprecated": false,
-      "filename": "3.4.8.json",
-      "channel": "stable",
-      "latest_revision": 1,
-      "published_at": "2026-10-30T10:50:31Z"
     },
     {
       "version": "3.4.7",

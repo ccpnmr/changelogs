@@ -2,12 +2,12 @@
   "schema_version": 2,
   "channels": {
     "stable": {
-      "version": "3.6.1",
-      "updateFromVersion": "3.6.0",
+      "version": "3.4.8",
+      "updateFromVersion": "3.4.7",
       "deprecated": false,
-      "filename": "3.6.1.json",
-      "latest_revision": 1,
-      "published_at": "2026-10-30T11:11:50Z"
+      "filename": "3.4.8.json",
+      "latest_revision": 2,
+      "published_at": "2026-10-30T11:15:53Z"
     }
   }
 }
