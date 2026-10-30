@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "version": "3.7.0.channel-az-1",
+  "updateFromVersion": null,
+  "deprecated": false,
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2026-10-30T15:14:57Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "channel"
+        }
+      ],
+      "summary": "a new channel"
+    }
+  ]
+}
