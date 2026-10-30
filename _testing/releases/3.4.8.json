@@ -1,0 +1,23 @@
+{
+  "schema_version": 2,
+  "version": "3.4.8",
+  "updateFromVersion": "3.4.7",
+  "deprecated": false,
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2026-10-30T10:50:31Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "Frame"
+        },
+        {
+          "type": "Fixed",
+          "message": "Frame"
+        }
+      ],
+      "summary": "Frame"
+    }
+  ]
+}
