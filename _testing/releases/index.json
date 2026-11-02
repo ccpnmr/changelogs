@@ -3,6 +3,15 @@
   "changelog_count": 10,
   "releases": [
     {
+      "version": "3.4.4",
+      "updateFromVersion": null,
+      "deprecated": false,
+      "filename": "3.4.4.json",
+      "channel": "stable",
+      "latest_revision": 1,
+      "published_at": "2026-11-02T16:20:43Z"
+    },
+    {
       "version": "3.7.0.channel-az",
       "updateFromVersion": null,
       "deprecated": false,
