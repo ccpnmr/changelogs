@@ -2,12 +2,12 @@
   "schema_version": 2,
   "channels": {
     "stable": {
-      "version": "3.4.4.1",
-      "updateFromVersion": "3.4.7",
+      "version": "3.4.4.2",
+      "updateFromVersion": "3.4.4",
       "deprecated": false,
-      "filename": "3.4.4.1.json",
+      "filename": "3.4.4.2.json",
       "latest_revision": 1,
-      "published_at": "2026-11-02T16:24:17Z"
+      "published_at": "2026-11-02T16:25:16Z"
     },
     "az": {
       "version": "3.7.0.channel-az",
