@@ -2,7 +2,7 @@
   "schema_version": 2,
   "version": "3.4.7",
   "updateFromVersion": null,
-  "deprecated": true,
+  "deprecated": false,
   "revisions": [
     {
       "revision": 1,
@@ -14,6 +14,17 @@
         }
       ],
       "summary": "test publications"
+    },
+    {
+      "revision": 2,
+      "published_at": "2026-11-02T16:45:36Z",
+      "changes": [
+        {
+          "type": "Fixed",
+          "message": "rev"
+        }
+      ],
+      "summary": "a revision 2"
     }
   ]
 }
