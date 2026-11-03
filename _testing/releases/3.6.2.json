@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "version": "3.6.2",
+  "updateFromVersion": "3.6.1",
+  "deprecated": false,
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2026-11-03T14:06:11Z",
+      "changes": [
+        {
+          "type": "Fixed",
+          "message": "required sync"
+        }
+      ],
+      "summary": "A new update"
+    }
+  ]
+}
