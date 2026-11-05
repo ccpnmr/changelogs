@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "version": "3.7.0",
+  "updateFromVersion": null,
+  "deprecated": false,
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2026-11-04T12:58:00Z",
+      "changes": [
+        {
+          "type": "Added",
+          "message": "new datetime widget"
+        }
+      ],
+      "summary": "Testing the new datetime"
+    }
+  ]
+}
