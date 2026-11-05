@@ -7,7 +7,12 @@
     {
       "revision": 1,
       "published_at": "2026-11-02T16:25:16Z",
-      "changes": []
+      "changes": [
+        {
+          "type": "Fixed",
+          "message": "something"
+        }
+      ]
     }
   ]
 }
