@@ -7,7 +7,13 @@
     {
       "revision": 1,
       "published_at": "2026-11-02T16:24:17Z",
-      "changes": []
+      "changes": [
+        {
+          "type": "Improved",
+          "message": "Some things"
+        }
+      ],
+      "summary": "added summary"
     }
   ]
 }
