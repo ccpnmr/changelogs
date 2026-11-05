@@ -11,9 +11,17 @@
         {
           "type": "Added",
           "message": "channel release"
+        },
+        {
+          "type": "Fixed",
+          "message": "session"
+        },
+        {
+          "type": "Improved",
+          "message": "Changing"
         }
       ],
-      "summary": "a new channel"
+      "summary": "This is a new channel"
     }
   ]
 }
