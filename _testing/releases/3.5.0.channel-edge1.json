@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "version": "3.5.0.channel-edge1",
+  "updateFromVersion": "3.5.0.channel-edge",
+  "deprecated": false,
+  "revisions": [
+    {
+      "revision": 1,
+      "published_at": "2026-11-06T14:02:36Z",
+      "changes": [
+        {
+          "type": "Fixed",
+          "message": "rev 1"
+        }
+      ],
+      "summary": "edge 1"
+    }
+  ]
+}

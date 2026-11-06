@@ -1,7 +1,16 @@
 {
   "schema_version": 2,
-  "changelog_count": 14,
+  "changelog_count": 15,
   "releases": [
+    {
+      "version": "3.5.0.channel-edge1",
+      "updateFromVersion": "3.5.0.channel-edge",
+      "deprecated": false,
+      "filename": "3.5.0.channel-edge1.json",
+      "channel": "edge",
+      "latest_revision": 1,
+      "published_at": "2026-11-06T14:02:36Z"
+    },
     {
       "version": "3.5.0.channel-edge",
       "updateFromVersion": null,
