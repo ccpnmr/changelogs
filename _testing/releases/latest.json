@@ -1,6 +1,14 @@
 {
   "schema_version": 2,
   "channels": {
+    "edge": {
+      "version": "3.5.0.channel-edge",
+      "updateFromVersion": null,
+      "deprecated": false,
+      "filename": "3.5.0.channel-edge.json",
+      "latest_revision": 1,
+      "published_at": "2026-11-06T14:01:53Z"
+    },
     "stable": {
       "version": "3.6.2",
       "updateFromVersion": "3.6.1",
