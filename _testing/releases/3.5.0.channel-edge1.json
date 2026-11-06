@@ -11,6 +11,10 @@
         {
           "type": "Fixed",
           "message": "rev 1"
+        },
+        {
+          "type": "Updated",
+          "message": "yew"
         }
       ],
       "summary": "edge 1"
